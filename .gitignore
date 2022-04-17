@@ -1,10 +1,12 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
+# Adding config.py file.
+config.py
+config1.py
 
-# C extensions
-*.so
+# Adding additional files.
+API_practise.ipynb
+random_numbers.ipynb
+Google_Nearby_Search.ipynb
+
 
 # Distribution / packaging
 .Python
